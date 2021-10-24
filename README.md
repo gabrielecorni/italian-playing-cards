@@ -6,3 +6,19 @@ Ref:
 
 ---
 
+### Run locally
+
+Create and enter virtual environment:
+```shell
+poetry shell
+```
+
+Run the example:
+```shell
+python italian_playing_cards/example.py
+```
+
+Exit the virtual environment:
+```shell
+exit
+```
