@@ -3,6 +3,7 @@ A pythonic implementation of Italian card decks.
 
 Ref:
 + [Wikipedia page](https://en.wikipedia.org/wiki/Italian_playing_cards)
++ [Emoji](https://unicode.org/emoji/charts/full-emoji-list.html)
 
 ---
 
